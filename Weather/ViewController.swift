@@ -16,5 +16,5 @@ class ViewController: UIViewController {
     }
 
 
-} // Properties - Property Wrappers [after finishing methods can carry on with the clip (CLIP 31:00)
+} // Methods - The Self Property [after finishing methods can carry on with the clip (CLIP 31:00)
 
