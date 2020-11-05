@@ -16,5 +16,5 @@ class ViewController: UIViewController {
     }
 
 
-} // Methods - Type Methods [after finishing methods can carry on with the clip (CLIP 31:00)
+} // finished methods, will can carry on with the clip (CLIP 31:00)
 
