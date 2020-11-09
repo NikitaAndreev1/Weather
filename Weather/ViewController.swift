@@ -16,5 +16,5 @@ class ViewController: UIViewController {
     }
 
 
-} // Learning about Overriding, after that will carry on with the clip (CLIP 31:00)
+} // Learning about Overriding Properties, after that will carry on with the clip (CLIP 31:00)
 
