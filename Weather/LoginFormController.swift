@@ -10,6 +10,7 @@ import UIKit
 
 class LoginFormController: UIViewController {
 
+    @IBOutlet weak var titleView: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
