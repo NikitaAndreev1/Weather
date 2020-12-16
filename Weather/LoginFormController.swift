@@ -10,11 +10,30 @@ import UIKit
 
 class LoginFormController: UIViewController {
 
+    
+    @IBOutlet weak var scrollBottomConstraint: NSLayoutConstraint!
     @IBOutlet weak var titleView: UILabel!
+    @IBOutlet weak var loginButton: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        scrollBottomConstraint.constant = 500
+        titleView.text = "Weather Forecast"
+        
         // Do any additional setup after loading the view.
     }
+    
+    
+    
+    
+    
+    @IBAction func loginPressed() {
+    }
+    
+    
+    
+    
 }
 // (CLIP 2:53:00)
 
